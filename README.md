@@ -3,9 +3,9 @@
 
 ---
 
-# 💜💗 Malla Curricular en Tarjetas
+#  Malla Curricular en Tarjetas
 
-| 🟪 Periodo 1 | 🟪 Periodo 2 | 🟪 Periodo 3 | 🟪 Periodo 4 | 🟪 Periodo 5 |
+| Periodo 1 | Periodo 2 | Periodo 3 | Periodo 4 | Periodo 5 |
 |--------------|--------------|--------------|--------------|--------------|
 | Cátedra Unadista | Inglés A1 | Inglés A2 | Inglés B1 | Inglés B2 |
 | Pensamiento Lógico y Matemático | Fundamentos de Gestión Integral | Fundamentos y Generalidades de Investigación | Electivo Disciplinar Común I | Electivo Disciplinar Común II |
@@ -16,7 +16,7 @@
 
 ---
 
-| 🟪 Periodo 6 | 🟪 Periodo 7 | 🟪 Periodo 8 | 🟪 Periodo 9 |
+| Periodo 6 | Periodo 7 | Periodo 8 | Periodo 9 |
 |--------------|--------------|--------------|--------------|
 | Sistemas Integrados de Gestión | Electivo Formación Complementaria I | Electivo Formación Complementaria II | Electivo Formación Complementaria III |
 | Condiciones de la Tarea I | Condiciones de la Tarea II | Legislación en SST | Gestión Ambiental |
