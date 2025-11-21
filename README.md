@@ -3,43 +3,157 @@
 
 ---
 
-# 🎨 Malla Curricular en Formato Matriz con Colores
+<style>
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
 
-<table>
-  <tr>
-    <th style="background:#4da6ff; color:white">Periodo 1</th>
-    <th style="background:#80ffaa; color:black">Periodo 2</th>
-    <th style="background:#ffff80; color:black">Periodo 3</th>
-    <th style="background:#ffb380; color:black">Periodo 4</th>
-    <th style="background:#ff8080; color:white">Periodo 5</th>
-    <th style="background:#cc99ff; color:white">Periodo 6</th>
-    <th style="background:#c68c53; color:white">Periodo 7</th>
-    <th style="background:#d9d9d9; color:black">Periodo 8</th>
-    <th style="background:#808080; color:white">Periodo 9</th>
-  </tr>
+.card {
+  background: #f8e9ff; /* Lila pastel */
+  border-left: 8px solid #d56bff; /* Lila fuerte */
+  padding: 15px;
+  border-radius: 10px;
+  width: 280px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.10);
+  font-family: Arial, sans-serif;
+}
 
-  <tr>
-    <td style="background:#e6f2ff">Cátedra Unadista</td>
-    <td style="background:#e6ffe6">Inglés A1</td>
-    <td style="background:#ffffe6">Inglés A2</td>
-    <td style="background:#ffe6cc">Inglés B1</td>
-    <td style="background:#ffe6e6">Inglés B2</td>
-    <td style="background:#f2e6ff">Sistemas Integrados de Gestión</td>
-    <td style="background:#f2e6d9">Electivo Formación Complementaria I</td>
-    <td style="background:#f2f2f2">Electivo Formación Complementaria II</td>
-    <td style="background:#d9d9d9">Electivo Formación Complementaria III</td>
-  </tr>
+.card h3 {
+  margin-top: 0;
+  color: #b132e6; /* Lila oscuro */
+}
 
-  <tr>
-    <td style="background:#e6f2ff">Pensamiento Lógico y Matemático</td>
-    <td style="background:#e6ffe6">Fundamentos de Gestión Integral</td>
-    <td style="background:#ffffe6">Fundamentos y Generalidades de Investigación</td>
-    <td style="background:#ffe6cc">Electivo Disciplinar Común I</td>
-    <td style="background:#ffe6e6">Electivo Disciplinar Común II</td>
-    <td style="background:#f2e6ff">Condiciones de la Tarea I</td>
-    <td style="background:#f2e6d9">Condiciones de la Tarea II</td>
-    <td style="background:#f2f2f2">Legislación en SST</td>
-    <td style="background:#d9d9d9">Gestión Ambiental</td>
+.card ul {
+  padding-left: 18px;
+}
+
+.card ul li {
+  margin-bottom: 6px;
+}
+
+</style>
+
+# 💜💗 Malla Curricular en Formato Tarjetas
+
+<div class="card-container">
+
+<!-- Periodo 1 -->
+<div class="card">
+<h3>📌 Periodo 1</h3>
+<ul>
+<li>Cátedra Unadista</li>
+<li>Pensamiento Lógico y Matemático</li>
+<li>Ética y Ciudadanía</li>
+<li>Herramientas Digitales</li>
+<li>Biología Celular y Molecular</li>
+<li>Sociología del Trabajo</li>
+</ul>
+</div>
+
+<!-- Periodo 2 -->
+<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
+<h3>📌 Periodo 2</h3>
+<ul>
+<li>Inglés A1</li>
+<li>Fundamentos de Gestión Integral</li>
+<li>Electivo Social Solidario</li>
+<li>Bioética</li>
+<li>Bioquímica</li>
+<li>Fundamentos en SST</li>
+</ul>
+</div>
+
+<!-- Periodo 3 -->
+<div class="card">
+<h3>📌 Periodo 3</h3>
+<ul>
+<li>Inglés A2</li>
+<li>Fundamentos y Generalidades de Investigación</li>
+<li>Competencias Comunicativas</li>
+<li>Electivo Económico Administrativo</li>
+<li>Morfofisiología</li>
+<li>Fundamentos de Salud Pública</li>
+</ul>
+</div>
+
+<!-- Periodo 4 -->
+<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
+<h3>📌 Periodo 4</h3>
+<ul>
+<li>Inglés B1</li>
+<li>Electivo Disciplinar Común I</li>
+<li>Telesalud</li>
+<li>Patología General</li>
+<li>Administración en Salud</li>
+<li>Condiciones de la Organización del Trabajo</li>
+</ul>
+</div>
+
+<!-- Periodo 5 -->
+<div class="card">
+<h3>📌 Periodo 5</h3>
+<ul>
+<li>Inglés B2</li>
+<li>Electivo Disciplinar Común II</li>
+<li>Bioestadística</li>
+<li>Física Aplicada</li>
+<li>Biomecánica</li>
+<li>Medicina Preventiva y del Trabajo</li>
+</ul>
+</div>
+
+<!-- Periodo 6 -->
+<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
+<h3>📌 Periodo 6</h3>
+<ul>
+<li>Sistemas Integrados de Gestión</li>
+<li>Condiciones de la Tarea I</li>
+<li>Condiciones de Seguridad I</li>
+<li>Vigilancia Epidemiológica</li>
+<li>Toxicología Ocupacional</li>
+<li>Electivo Específico I</li>
+</ul>
+</div>
+
+<!-- Periodo 7 -->
+<div class="card">
+<h3>📌 Periodo 7</h3>
+<ul>
+<li>Electivo Formación Complementaria I</li>
+<li>Condiciones de la Tarea II</li>
+<li>Condiciones de Seguridad II</li>
+<li>Condiciones del Ambiente de Trabajo I</li>
+<li>Electivo Específico II</li>
+</ul>
+</div>
+
+<!-- Periodo 8 -->
+<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
+<h3>📌 Periodo 8</h3>
+<ul>
+<li>Electivo Formación Complementaria II</li>
+<li>Legislación en SST</li>
+<li>Seminario de Investigación</li>
+<li>Condiciones del Ambiente de Trabajo II</li>
+<li>Electivo Específico III</li>
+</ul>
+</div>
+
+<!-- Periodo 9 -->
+<div class="card">
+<h3>📌 Periodo 9</h3>
+<ul>
+<li>Electivo Formación Complementaria III</li>
+<li>Gestión Ambiental</li>
+<li>Trabajo de Grado</li>
+<li>Práctica Profesional</li>
+<li>Electivo Específico IV</li>
+</ul>
+</div>
+
+</div>
   </tr>
 
   <tr>
