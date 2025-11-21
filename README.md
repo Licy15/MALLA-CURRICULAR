@@ -3,156 +3,67 @@
 
 ---
 
-<style>
-.card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
+# 💜💗 Malla Curricular en Tarjetas
 
-.card {
-  background: #f8e9ff; /* Lila pastel */
-  border-left: 8px solid #d56bff; /* Lila fuerte */
-  padding: 15px;
-  border-radius: 10px;
-  width: 280px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.10);
-  font-family: Arial, sans-serif;
-}
+| 🟪 Periodo 1 | 🟪 Periodo 2 | 🟪 Periodo 3 | 🟪 Periodo 4 | 🟪 Periodo 5 |
+|--------------|--------------|--------------|--------------|--------------|
+| Cátedra Unadista | Inglés A1 | Inglés A2 | Inglés B1 | Inglés B2 |
+| Pensamiento Lógico y Matemático | Fundamentos de Gestión Integral | Fundamentos y Generalidades de Investigación | Electivo Disciplinar Común I | Electivo Disciplinar Común II |
+| Ética y Ciudadanía | Electivo Social Solidario | Competencias Comunicativas | Telesalud | Bioestadística |
+| Herramientas Digitales | Bioética | Electivo Económico Administrativo | Patología General | Física Aplicada |
+| Biología Celular y Molecular | Bioquímica | Morfofisiología | Administración en Salud | Biomecánica |
+| Sociología del Trabajo | Fundamentos en SST | Fundamentos de Salud Pública | Condiciones de la Organización del Trabajo | Medicina Preventiva y del Trabajo |
 
-.card h3 {
-  margin-top: 0;
-  color: #b132e6; /* Lila oscuro */
-}
+---
 
-.card ul {
-  padding-left: 18px;
-}
+| 🟪 Periodo 6 | 🟪 Periodo 7 | 🟪 Periodo 8 | 🟪 Periodo 9 |
+|--------------|--------------|--------------|--------------|
+| Sistemas Integrados de Gestión | Electivo Formación Complementaria I | Electivo Formación Complementaria II | Electivo Formación Complementaria III |
+| Condiciones de la Tarea I | Condiciones de la Tarea II | Legislación en SST | Gestión Ambiental |
+| Condiciones de Seguridad I | Condiciones de Seguridad II | Seminario de Investigación | Trabajo de Grado |
+| Vigilancia Epidemiológica | Condiciones del Ambiente de Trabajo I | Condiciones del Ambiente de Trabajo II | Práctica Profesional |
+| Toxicología Ocupacional | Electivo Específico II | Electivo Específico III | Electivo Específico IV |
+| Electivo Específico I |  |  |  |
 
-.card ul li {
-  margin-bottom: 6px;
-}
+---
 
-</style>
+# 🎓 Electivas de Profundización
 
-# 💜💗 Malla Curricular en Formato Tarjetas
+### 🔹 Línea I: SST en Poblaciones de Interés Especial
+- Seguridad Vial – 3 créditos  
+- Tareas de Alto Riesgo – 3 créditos  
+- Gestión de Riesgo de Desastres – 3 créditos  
+- Sistemas de Gestión en SST – 3 créditos  
 
-<div class="card-container">
+### 🔹 Línea II: Gestión de la SST
+- Costos y Presupuestos – 3 créditos  
+- Formulación y Evaluación de Proyectos en SST – 3 créditos  
+- Comportamiento Organizacional – 3 créditos  
+- TIC Aplicadas a la SST – 3 créditos  
 
-<!-- Periodo 1 -->
-<div class="card">
-<h3>📌 Periodo 1</h3>
-<ul>
-<li>Cátedra Unadista</li>
-<li>Pensamiento Lógico y Matemático</li>
-<li>Ética y Ciudadanía</li>
-<li>Herramientas Digitales</li>
-<li>Biología Celular y Molecular</li>
-<li>Sociología del Trabajo</li>
-</ul>
-</div>
+---
 
-<!-- Periodo 2 -->
-<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
-<h3>📌 Periodo 2</h3>
-<ul>
-<li>Inglés A1</li>
-<li>Fundamentos de Gestión Integral</li>
-<li>Electivo Social Solidario</li>
-<li>Bioética</li>
-<li>Bioquímica</li>
-<li>Fundamentos en SST</li>
-</ul>
-</div>
+# 📚 Electivas Generales y Disciplinarias
 
-<!-- Periodo 3 -->
-<div class="card">
-<h3>📌 Periodo 3</h3>
-<ul>
-<li>Inglés A2</li>
-<li>Fundamentos y Generalidades de Investigación</li>
-<li>Competencias Comunicativas</li>
-<li>Electivo Económico Administrativo</li>
-<li>Morfofisiología</li>
-<li>Fundamentos de Salud Pública</li>
-</ul>
-</div>
+### 🔸 Componente Social – Solidario
+- Inclusión Social – 3 créditos  
+- Sujeto, Comunidad e Interacción Social – 3 créditos  
+- Sostenibilidad y Calidad de Vida – 3 créditos  
+- Educación Ambiental – 3 créditos  
 
-<!-- Periodo 4 -->
-<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
-<h3>📌 Periodo 4</h3>
-<ul>
-<li>Inglés B1</li>
-<li>Electivo Disciplinar Común I</li>
-<li>Telesalud</li>
-<li>Patología General</li>
-<li>Administración en Salud</li>
-<li>Condiciones de la Organización del Trabajo</li>
-</ul>
-</div>
+### 🔸 Electiva Disciplinar Común
+- Terapias Naturales – 3 créditos  
+- Cuidados Básicos de Enfermería – 3 créditos  
+- Primer Respondiente – 3 créditos  
+- Bioseguridad – 3 créditos  
+- Atención Psicosocial – 3 créditos  
+- Educación para la Salud – 3 créditos  
 
-<!-- Periodo 5 -->
-<div class="card">
-<h3>📌 Periodo 5</h3>
-<ul>
-<li>Inglés B2</li>
-<li>Electivo Disciplinar Común II</li>
-<li>Bioestadística</li>
-<li>Física Aplicada</li>
-<li>Biomecánica</li>
-<li>Medicina Preventiva y del Trabajo</li>
-</ul>
-</div>
+---
 
-<!-- Periodo 6 -->
-<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
-<h3>📌 Periodo 6</h3>
-<ul>
-<li>Sistemas Integrados de Gestión</li>
-<li>Condiciones de la Tarea I</li>
-<li>Condiciones de Seguridad I</li>
-<li>Vigilancia Epidemiológica</li>
-<li>Toxicología Ocupacional</li>
-<li>Electivo Específico I</li>
-</ul>
-</div>
-
-<!-- Periodo 7 -->
-<div class="card">
-<h3>📌 Periodo 7</h3>
-<ul>
-<li>Electivo Formación Complementaria I</li>
-<li>Condiciones de la Tarea II</li>
-<li>Condiciones de Seguridad II</li>
-<li>Condiciones del Ambiente de Trabajo I</li>
-<li>Electivo Específico II</li>
-</ul>
-</div>
-
-<!-- Periodo 8 -->
-<div class="card" style="background:#ffe6f7; border-left-color:#ff6ec7;">
-<h3>📌 Periodo 8</h3>
-<ul>
-<li>Electivo Formación Complementaria II</li>
-<li>Legislación en SST</li>
-<li>Seminario de Investigación</li>
-<li>Condiciones del Ambiente de Trabajo II</li>
-<li>Electivo Específico III</li>
-</ul>
-</div>
-
-<!-- Periodo 9 -->
-<div class="card">
-<h3>📌 Periodo 9</h3>
-<ul>
-<li>Electivo Formación Complementaria III</li>
-<li>Gestión Ambiental</li>
-<li>Trabajo de Grado</li>
-<li>Práctica Profesional</li>
-<li>Electivo Específico IV</li>
-</ul>
-</div>
-
-</div>
-
+# 🧩 Componentes Formativos
+- **Formación Básica:** cátedra, inglés, comunicación, investigación.  
+- **Formación Disciplinar:** epidemiología, seguridad, toxicología, ergonomía, salud pública.  
+- **Componente Práctico:** práctica profesional.  
+- **Trabajo de Grado:** desarrollo de investigación aplicada.
 
